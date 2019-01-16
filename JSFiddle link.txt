@@ -1,0 +1,6 @@
+Erik Safford
+CS 320
+Assignment 3: Underscore.js in JavaScript
+September 2018
+
+http://jsfiddle.net/kiredroffas/ywog62sx/
